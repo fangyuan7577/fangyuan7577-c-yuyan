@@ -25,7 +25,7 @@ int main(int argc, char const *argv[])
 			}else{
 				printf("Good Guess!\n");
 			}
-			finished=1
+			finished=1;
 		}
 		if(cnt==n){
 			if(!finished){
