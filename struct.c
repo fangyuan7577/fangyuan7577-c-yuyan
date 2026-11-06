@@ -27,6 +27,7 @@ int main(int argc, char const *argv[])
 	struct date *pDate = &today;
 	
 	// 6. 打印
+	
 	printf("Today's date is %i-%i-%i.\n",
 		today.year, today.month, today.day);
 		
