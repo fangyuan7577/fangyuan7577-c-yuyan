@@ -1,2 +1,1 @@
-# weary-spooky-toad
-蓝色
+# c语言草稿本
